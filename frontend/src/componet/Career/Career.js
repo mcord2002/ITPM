@@ -89,8 +89,8 @@ function Career() {
         </header>
 
         <div className="card career-examples">
-          <p><strong>Example 1:</strong> Python, ML, Data Analysis -> Data Scientist / Machine Learning Engineer</p>
-          <p><strong>Example 2:</strong> Linux, Networking, Cloud -> DevOps Engineer / Cloud Engineer</p>
+          <p><strong>Example 1:</strong> Python, ML, Data Analysis {'->'} Data Scientist / Machine Learning Engineer</p>
+          <p><strong>Example 2:</strong> Linux, Networking, Cloud {'->'} DevOps Engineer / Cloud Engineer</p>
         </div>
 
         <form onSubmit={handleSubmit} className="card career-form">
